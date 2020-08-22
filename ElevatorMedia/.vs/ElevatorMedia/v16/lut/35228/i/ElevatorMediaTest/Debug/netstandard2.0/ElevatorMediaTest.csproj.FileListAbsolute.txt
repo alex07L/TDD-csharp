@@ -1,0 +1,9 @@
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaTest\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaTest\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaTest\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaTest\Debug\netstandard2.0\ElevatorMediaTest.deps.json
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaTest\Debug\netstandard2.0\ElevatorMediaTest.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaTest\Debug\netstandard2.0\ElevatorMediaTest.AssemblyInfoInputs.cache
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaTest\Debug\netstandard2.0\ElevatorMediaTest.AssemblyInfo.cs
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaTest\Debug\netstandard2.0\ElevatorMediaTest.csproj.CopyComplete
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaTest\Debug\netstandard2.0\ElevatorMediaTest.dll

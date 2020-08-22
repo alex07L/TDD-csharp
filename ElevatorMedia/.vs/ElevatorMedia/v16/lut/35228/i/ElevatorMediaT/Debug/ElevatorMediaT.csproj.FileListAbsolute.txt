@@ -1,0 +1,7 @@
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\b\ElevatorMediaT\bin\Debug\ElevatorMediaT.dll
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaT\Debug\ElevatorMediaT.csprojAssemblyReference.cache
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaT\Debug\ElevatorMediaT.csproj.CopyComplete
+C:\Users\Otomation\source\repos\ElevatorMedia\.vs\ElevatorMedia\v16\lut\0\i\ElevatorMediaT\Debug\ElevatorMediaT.dll

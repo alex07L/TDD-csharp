@@ -1,0 +1,1 @@
+[19:44:17.200 Verbose] - BuildManager - C:\Users\Otomation\source\repos\ElevatorMedia\ElevatorMedia\StreamerTest.cs(19,13): error CS0117: 'File' does not contain a definition for 'mockHttp'
